@@ -2,7 +2,7 @@
 
 Краткое описание: Landing page для компании по туризму.
 
-- [🖥 [Посмотреть демо](ссылка_на_gh_pages)](https://nadin74.github.io/tourism/)
+- [(ссылка_на_gh_pages)](https://nadin74.github.io/tourism/)
 - ⚙️ **Технологии:** HTML5, CSS3, Flexbox, адаптивная верстка, JS.
 - 📱 **Адаптивность:** 390px - 1440px.
 
